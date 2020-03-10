@@ -1,1 +1,1 @@
-This is Enes's first git project!
+This is Enes's first non-college  git project!
